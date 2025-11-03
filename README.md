@@ -1,6 +1,6 @@
 # Data-Visualization-and-Reporting
 
-## Project Overview
+## Overview
 This project involves transforming and analyzing sales and purchased data of UHospital by using Power BI Desktop. 
 The messy and unclear format of data, requiring thorough data cleaning, transformation, and visualization to build a dashboard for business insights.
 
