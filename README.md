@@ -26,11 +26,12 @@ These are the following informations included:
      - Export OBM
      - Online Sales
 
-## Lisence
-MIT 
 4. Drill-down by product, region, or salesperson
 
 ## Tools and Technologies
 - Power BI Desktop
 - Dax
 - Power Query
+
+## License
+MIT 
