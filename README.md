@@ -34,4 +34,4 @@ These are the following informations included:
 - Power Query
 
 ## License
-MIT 
+MIT [License](LICENSE)
